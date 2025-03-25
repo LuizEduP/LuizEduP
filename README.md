@@ -1,5 +1,5 @@
-## Hi there 👋
-# 💫 About Me:
+# Hi there 👋
+## 💫 About Me:
 🌍 About Me<br><br>I'm a Computer Science student at UNIFESO, Brazil 🇧🇷, passionate about technology, programming, and problem-solving. I'm always learning and exploring new fields like data structures, algorithms, and computational robotics.
 
 
